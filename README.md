@@ -20,13 +20,13 @@ Includes:
 
 ---
 
-# Install dependencies
+#### Install dependencies
 
-npm install
+`npm install`
 
-# Start the server
+#### Start the server
 
-npm run start
+`npm run start`
 
 ## Example Request
 
